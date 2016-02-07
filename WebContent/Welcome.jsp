@@ -20,6 +20,7 @@
 <body>
 	<div class="container page">
 		<h1>Welcome</h1>
+		
 		<pre>Click the button below to Login...</pre>
 
 		<a href="Login.jsp">Login</a>
